@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\illa2\\source\\repos\\ClientApp\\ClientApp\\ClientApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\illa2\\source\\repos\\ClientApp\\ClientApp\\ClientApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\illa2\\source\\repos\\ClientApp\\ClientApp\\ClientApp.csproj",
+        "projectName": "ClientApp",
+        "projectPath": "C:\\Users\\illa2\\source\\repos\\ClientApp\\ClientApp\\ClientApp.csproj",
+        "packagesPath": "C:\\Users\\illa2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\illa2\\source\\repos\\ClientApp\\ClientApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\illa2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\illa2\\Downloads": {},
+          "http://nuget.syncfusion.com/": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
